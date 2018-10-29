@@ -1,0 +1,32 @@
+autonumbering.placeholder.search_rule_key,Search Numbering Rule Code e.g.) NR-001,発番ルールコードを検索 例) NR-001
+autonumbering.inboxhovermenu.create_new_rule_from_copy,Copy and Create New Numbering Rule,発番ルールをコピーして作成
+autonumbering.newruledialog.title,Create new Numbering Rule,発番ルールを新規作成
+autonumbering.newruledialog.copy_from_rule,Copied Numbering Rule Code,コピー元発番ルールコード
+autonumbering.rule_code,Numbering Rule code,発番ルールコード
+autonumbering.back_to_portal,Back to Portal,一覧へ戻る
+autonumbering.disable_edit,Disable Edit,編集を終了する
+autonumbering.reset,Discard All Changes,編集を破棄する
+autonumbering.edit,Edit,編集
+autonumbering.label.general_setting,General Setting,一般設定
+autonumbering.input.use_dynamic_sequence,Use Dynamic Sequence,動的連番を使用
+autonumbering.input.use_anto_cutting,Use Auto Cutting,最大桁数を設定
+autonumbering.input.length_setting,Total/Prefix/Suffixs Length,合計/プレフィックス/サフィックス
+autonumbering.label.rule_elements,Numbering Rule Elements,発番ルール構成
+autonumbering.button.add_new_element,Add new Numbering Rule Element,発番ルール項目を追加
+autonumbering.input.data_type,Data Type,データ型
+autonumbering.input.static_string,Static String,固定文字列
+autonumbering.input.target_business_data,Target Business Data,利用する業務項目
+autonumbering.input.alphabet_conversion,Alphabet Conversion,英字変換
+autonumbering.input.year_conversion,Year Conversion,年変換
+autonumbering.input.month_conversion,Month Conversion,月変換
+autonumbering.input.day_conversion,Day Conversion,日変換
+autonumbering.button.show_conversion_option,Show Conversion Options,変換設定
+autonumbering.button.hide_conversion_option,Hide Conversion Options,隠す変換設定
+autonumbering.input.start_sequence,Start Sequence,開始値
+autonumbering.input.end_sequence,End Sequence,終了値
+autonumbering.input.sequence_length,Sequence Length,桁数長さ
+autonumbering.input.skip_number_list,Skip Number List,除外する番号
+autonumbering.input.random_digits,Random Digits,ランダム桁数
+autonumbering.label.preview_number,Number Preview,発番プレビュー
+autonumbering.anchor.show_all_services,Show All (Total %1$s Records),全ての明細を表示 (合計 %1$s)
+autonumbering.anchor.hide_services,Hide,隠す
